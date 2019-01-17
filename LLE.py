@@ -15,7 +15,7 @@ def affine(input_data):
 	return transformed
 #-----------------------------------------------------------------------------------------------
 # Data creation:
-surface = scipy.io.loadmat('F:\Semester VIII\IMT\Manifold_code\duck\surface1.mat')
+surface = scipy.io.loadmat('surface1.mat')
 surface = surface['surface1']
 surface = surface[0,0]
 input_data = surface['points']
