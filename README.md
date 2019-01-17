@@ -1,10 +1,17 @@
 # Manifold-Learning of 3D objects
 
 
-Most of the data that we encounter in our day-to-day life in its crude form is high dimensional. There are various problems associated in dealing with high dimensional data. The problems include: Visualization, Storage, Processing time, Curse of dimensionality.
+Most of the data that we encounter in our day-to-day life in its crude form is high dimensional. There are various problems associated in dealing with high dimensional data. 
 
-However, any system that generates the data follows certain model and hence we can always bring this data into such a representation where it is purely governed by the degrees of freedom(dof) that the system generating it allows. Or in other words, the data has an intrinsic dimensionality which may be different from ambient dimensionality (the no. of dimensions in raw data
-representation).
+The problems include: 
+* Visualization
+* Storage
+* Processing time
+* Curse of dimensionality etc...
+
+However, any system that generates the data follows certain model and hence we can always bring this data into a representation where it is purely governed by degrees of freedom (dof) that the system generating it allows. 
+
+*Or in other words, the data has an intrinsic dimensionality which may be different from ambient dimensionality (the no. of dimensions in raw data representation).*
 
 Manifold learning deals with learning this intrinsic structure of the data in order to circumvent above mentioned problems associated with large number of dimensions.
 
