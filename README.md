@@ -17,4 +17,4 @@ Manifold learning deals with learning this intrinsic structure of the data in or
 
 In this project, intrinsic dimension of data is found through Grassberger-Procaccia (GP) algorithm. Later, LLE is used to embed this data on a low-dimensional subspace. The other important problem of finding the inverse mapping from low dimensional data to high dimensional data is also explored. RBFs have been used to interpolate the inverse mapping using the discrete set of mappings from high to low dimensions which is obtained through LLE.
 
-Project overview can be found in my presentation [Manifold_learning.pdf](https://github.com/varshapendyala/Manifold-Learning/blob/master/Manifold_learning.pdf). And the implementation details can be found in [this](https://github.com/varshapendyala/Manifold-Learning/blob/master/Manifold_learning_report) report.
+Project overview can be found in my presentation [Manifold_learning.pdf](https://github.com/varshapendyala/Manifold-Learning/blob/master/Manifold_learning.pdf). And the implementation details can be found in [this](https://github.com/varshapendyala/Manifold-Learning/blob/master/Manifold_learning_report.pdf) report.
